@@ -12,7 +12,7 @@ I published 5 papers in the best peer reviewed journals of Astrophysics:
 - [Giant planet formation models with a self-consistent treatment of the heavy elements](https://doi.org/10.3847/1538-4357/aba904).
 - [The distribution of heavy-elements in giant protoplanetary atmospheres: the importance of planetesimal-envelope interactions](https://doi.org/10.3847/1538-4357/aaf427).
 
-During my Ph.D. I have gained expertise in:
+During my Ph.D. I have mainly gained expertise in:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1024px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="200"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python" width="200"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/1024px-Fortran_logo.svg.png" alt="Fortran" width="200"/>
