@@ -13,7 +13,7 @@ I published 5 papers in the best peer reviewed journals of Astrophysics:
 
 During my Ph.D. I have gained expertise in:
 
-![C++]([http://url/to/img.png](https://it.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg))
+![C++](https://it.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg)
 
 <!---
 ClaudioValletta92/ClaudioValletta92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
