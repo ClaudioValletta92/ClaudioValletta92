@@ -5,7 +5,11 @@
 I obtained a Ph.D. in Computational Astrophysics at the University of Zurich, in the Institute for Computational Scientist under the supervision of Professor Ravit Helled. 
 
 I published 5 papers in the best peer reviewed journals of Astrophysics:
-- [Possible in situ formation of Uranus and Neptune via Pebble Accretion](https://iopscience.iop.org/article/10.3847/1538-4357/ac5f52).
+- [Possible in situ formation of Uranus and Neptune via Pebble Accretion](https://doi.org/10.3847/1538-4357/ac5f52).
+- [A low accretion efficiency of planetesimals formed at planetary gap edges](https://doi.org/10.1051/0004-6361/202142391).
+- [An Approximation for the Capture Radius of Gaseous Protoplanets](https://doi.org/10.1093/mnrasl/slab089).
+- [Giant planet formation models with a self-consistent treatment of the heavy elements](https://doi.org/10.3847/1538-4357/aba904).
+- [The distribution of heavy-elements in giant protoplanetary atmospheres: the importance of planetesimal-envelope interactions](https://doi.org/10.3847/1538-4357/aaf427).
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
