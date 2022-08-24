@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @ClaudioValletta92
+
+![_Red Paper Texture with PNG Cutout Student Internship Actor Resume Presentation](https://user-images.githubusercontent.com/32271546/186423785-e3bcd74d-994a-4d9c-bbf5-362109c67f2d.gif)
+
+👋 Hi, I am Claudio Valletta, a Computer Scientist. 
+I obtained a Ph.D. in Computational Astrophysics at the University of Zurich, in the Institute for Computational Scientist under the supervision of Professor Ravit Helled. 
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
