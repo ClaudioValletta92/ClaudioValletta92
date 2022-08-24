@@ -1,5 +1,6 @@
 
-![_Red Paper Texture with PNG Cutout Student Internship Actor Resume Presentation](https://user-images.githubusercontent.com/32271546/186423785-e3bcd74d-994a-4d9c-bbf5-362109c67f2d.gif)
+<img src="https://user-images.githubusercontent.com/32271546/186423785-e3bcd74d-994a-4d9c-bbf5-362109c67f2d.gif" alt="C++" width="100vw"/>
+
 
 👋 Hi, I am Claudio Valletta, a Computer Scientist. 
 I obtained a Ph.D. in Computational Astrophysics at the University of Zurich, in the Institute for Computational Scientist under the supervision of Professor Ravit Helled. 
@@ -13,7 +14,9 @@ I published 5 papers in the best peer reviewed journals of Astrophysics:
 
 During my Ph.D. I have gained expertise in:
 
-![C++](https://it.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1024px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="200"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python" width="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/1024px-Fortran_logo.svg.png" alt="Fortran" width="200"/>
+
 
 <!---
 ClaudioValletta92/ClaudioValletta92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
