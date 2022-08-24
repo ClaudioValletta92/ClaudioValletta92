@@ -11,11 +11,11 @@ I published 5 papers in the best peer reviewed journals of Astrophysics:
 - [Giant planet formation models with a self-consistent treatment of the heavy elements](https://doi.org/10.3847/1538-4357/aba904).
 - [The distribution of heavy-elements in giant protoplanetary atmospheres: the importance of planetesimal-envelope interactions](https://doi.org/10.3847/1538-4357/aaf427).
 
-During my Ph.D. I have gained expertise in 
-![alt text](http://url/to/img.png)
+During my Ph.D. I have gained expertise in:
+
+![C++]([http://url/to/img.png](https://it.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg))
 
 <!---
 ClaudioValletta92/ClaudioValletta92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![1635865923811](https://user-images.githubusercontent.com/32271546/186421466-3018bb12-7d76-4e76-84ce-b320e90ab65c.jpeg)
