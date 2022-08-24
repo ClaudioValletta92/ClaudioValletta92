@@ -4,6 +4,9 @@
 👋 Hi, I am Claudio Valletta, a Computer Scientist. 
 I obtained a Ph.D. in Computational Astrophysics at the University of Zurich, in the Institute for Computational Scientist under the supervision of Professor Ravit Helled. 
 
+I published 5 papers in the best peer reviewed journals of Astrophysics:
+- [Possible in situ formation of Uranus and Neptune via Pebble Accretion](https://iopscience.iop.org/article/10.3847/1538-4357/ac5f52).
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
